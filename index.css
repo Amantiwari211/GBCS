@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul {
+    background-color: black;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 12px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar a:hover {
+    text-decoration: none;
+    color: black;
+    background-color: rgb(244, 170, 114);
+    padding: 12px;
+}
+
+
+.template h2 {
+    text-align: center;
+    padding-top: 65px;
+
+}
+
+.volenters h2 {
+    text-align: center;
+    padding-top: 65px;
+
+}
+
+.About h2 {
+    text-align: center;
+    padding-top: 65px;
+
+}
+
+.payment h2 {
+    text-align: center;
+    padding-top: 65px;
+
+}
+
+.albam h2 {
+    text-align: center;
+    padding-top: 65px;
+
+}
+
+.btn button {
+    padding: 8px;
+    background-color: aqua;
+    border: 1px solid black;
+    margin-left: 45vw;
+    margin-top: 35px;
+}
+
+.btn button a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn button:hover {
+    padding: 8px;
+    background-color: aqua;
+    border: 3px solid black;
+    margin-left: 45vw;
+    margin-top: 35px;
+}
+
+.template {
+    background-color: rgb(244, 170, 114);
+    width: auto;
+    margin: 2px;
+    padding: 5px;
+    height: 255px;
+}
+
+.card {
+    flex: auto;
+}
+
+.volenters {
+    background-color: aqua;
+    width: auto;
+    margin: 2px;
+    height: 255px;
+}
+
+.About {
+    background-color: aqua;
+    width: auto;
+    margin: 2px;
+    height: 255px;
+}
+
+.payment {
+    background-color: aqua;
+    width: auto;
+    margin: 2px;
+    height: 255px;
+}
+
+.albam {
+    background-color: aqua;
+    width: auto;
+    margin: 2px;
+    height: 255px;
+}
+
+.Social {
+    background-color: aqua;
+    width: auto;
+    margin: 2px;
+    height: 255px;
+}
+
+.Photo {
+    background-color: antiquewhite;
+    padding-bottom: 92px;
+    border-bottom: 2px solid red;
+}
+
+/* Volenters.html css start */
+.VcardCont {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(246, 186, 107);
+    border-bottom: 4px solid red;
+}
+
+.Vcard {
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0);
+    max-width: 300px;
+    margin: 33px;
+    background-color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Vcard .pro img {
+    margin: 5px 2px 2px 2px;
+    border-radius: 12px;
+    max-height: 80%;
+    max-width: 95%;
+}
+
+.data {
+    margin: 4px;
+}
+
+.sm img {
+    height: 32px;
+    width: 30px;
+    margin: 4px;
+    border-radius: 14px;
+}
+
+/* This is About csss */
+.about {
+    background-color: antiquewhite;
+}
+
+.about h3 {
+    padding: 33px;
+}
+
+.about p {
+    padding: 12px;
+}
+
+/* Pyment.html */
+.pay img {
+    height: 444px;
+    width: 400px;
+}
+
+.pay {
+    background-color: aqua;
+}
+/* old memory html file  */
